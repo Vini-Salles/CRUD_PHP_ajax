@@ -1,0 +1,52 @@
+body {
+    background-color: aliceblue;
+    overflow-x: hidden;
+}
+
+/*--------------------------------------------------------------------------------------------------*/
+
+/*Header*/
+.navbar {
+    background-color: rgba(0,0,0,0.77) !important;
+    opacity: 95% !important;
+}
+
+.navbar-brand {
+    margin-left: 33px !important;
+}
+
+.btn-sanduiche {
+    background-color: rgba(0,0,0,0.87) !important;
+    opacity: 70% !important;
+    border: 0px;
+}
+
+/*--------------------------------------------------------------------------------------------------*/
+/*Menu lateral*/
+.nav-menu {
+    width: 270px !important;
+    height: 100vh !important;
+    background-color: rgba(0,0,0,0.91) !important;
+    opacity: 70% !important;
+}
+
+.bi-person {
+    width: 26px !important;
+    height: 26px !important;
+    margin-top: 65px !important;
+    margin-left: 7px !important;
+    color: rgba(0,0,0,0.89) !important;
+    cursor: pointer;
+}
+
+.btnconsult {
+    margin-top: -65px !important;
+    margin-left: 70px !important;
+    height: 1px !important;
+    width: 150px !important;
+    padding-bottom: 30px !important;
+    background-color: rgba(0,0,0,0.87) !important;
+    opacity: 50% !important;
+}
+
+/*--------------------------------------------------------------------------------------------------*/
